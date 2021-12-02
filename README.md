@@ -1,10 +1,20 @@
-### Hi there 👋
+# Hi there 👋. I'm Laxman.
+
+> I am a **full stack Web Developer.**
+
+> > "I always strive excllence in the product that i build."
+
+> > > **My favourite _quote_ of all times.**
+
+> > > > _"Stribe not be a success but rather of a value"_
+
+#
 
 <!--
 **laxmanpokhrel/laxmanpokhrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🌱 I’m currently learning Microsoft Azure Services and Power Platform
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
