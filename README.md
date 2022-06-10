@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Laxman Pokhrel.</h1>
-<h3 align="center">A passionate full stack web developer from Nepal.</h3>
+<h3 align="center">A passionate MERN stack developer from Nepal.</h3>
 
 - 🌱 I’m currently learning **Microsoft cloud services**
 
 - 👨‍💻 All of my projects are available at [https://laxmanpokhrel.github.io/](https://laxmanpokhrel.github.io/)
 
-- 💬 Ask me about **Front End and Back end Web Development**
+- 💬 Ask me about **Frontend and Backend Web Development**
 
 - 📫 How to reach me **laxmanpokhrel102@gmail.com**
 
