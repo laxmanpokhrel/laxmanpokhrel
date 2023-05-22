@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Frontend and Backend Web Development**
 
-- 📫 How to reach me **laxmanpokhrel102@gmail.com**
+- 📫 How to reach me **laxman.pokhrel.101@gmail.com**
 
 - 📄 Know about my experiences [https://laxmanpokhrel.github.io/](https://laxmanpokhrel.github.io/)
 
