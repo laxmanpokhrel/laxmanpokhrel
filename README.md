@@ -31,7 +31,8 @@ I'm an experienced Full-Stack Software Engineer specializing in React, TypeScrip
 ### 🏆 Certifications & Achievements
 
 - **Microsoft Learn Student Ambassador**: Developed Azure expertise and contributed to community-driven projects. Organised Cloud Summits and Microsoft Immagine Cup Ideathons.
-- **AIESEC Partnership Development, Kathmandu University**: Enhanced networking skills and established impactful partnerships.
+- **Microsoft Learn Student Ambassadors Mentor**: [Credential by Credly](https://www.credly.com/badges/e127e207-ed1f-4726-ab21-e6a285a38de0/linked_in_profile) for supporting and guiding peers in organizing events.
+- **AIESEC Partnership Development**: Enhanced networking skills and established impactful partnerships.
 
 ---
 
